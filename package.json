@@ -1,0 +1,25 @@
+{
+  "name": "akiracode",
+  "version": "1.0.0",
+  "description": "Repository created to deploy AI PMO Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/health.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tony-vtkl/akiracode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tony-vtkl/akiracode/issues"
+  },
+  "homepage": "https://github.com/tony-vtkl/akiracode#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
